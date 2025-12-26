@@ -15,14 +15,23 @@ Git (Gitea/GitHub) → Argo CD → Kubernetes
 ## Project Structure
 gitops-nginx-argocd/
 ├── app/
+
 │   ├── deployment.yaml
+
 │   └── service.yaml
+
 ├── argocd/
+
 │   └── application.yaml
+
 ├── screenshots/
+
 │   ├── argocd-app.png
+
 │   ├── argocd-sync.png
+
 │   └── nginx-pods.png
+
 └── README.md
 
 ## What This Project Demonstrates
