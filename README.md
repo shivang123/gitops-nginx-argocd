@@ -15,9 +15,10 @@ Git (Gitea/GitHub) → Argo CD → Kubernetes
 ### Demo Video
 
 <video width="600" controls>
-  <source src="https://github.com/shivang123/gitops-nginx-argocd/tree/main/argoCD_UI_video.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/shivang123/gitops-nginx-argocd/main/argoCD_UI_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 ## Project Structure
 gitops-nginx-argocd/
