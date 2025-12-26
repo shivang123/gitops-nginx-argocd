@@ -20,6 +20,7 @@ Git (Gitea/GitHub) → Argo CD → Kubernetes
 </video>
 
 
+
 ## Project Structure
 gitops-nginx-argocd/
 ├── app/
